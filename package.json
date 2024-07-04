@@ -1,0 +1,20 @@
+{
+	"name": "myhttp",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs 後面可以放一些參數"
+	},
+	"keywords": [],
+	"author": "Lai",
+	"license": "ISC",
+	"description": "my http server",
+	"dependencies": {
+		"jquery": "^3.7.1"
+	},
+	"devDependencies": {
+		"sass": "^1.77.6"
+	}
+}
